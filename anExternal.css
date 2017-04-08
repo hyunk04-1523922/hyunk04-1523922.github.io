@@ -1,0 +1,11 @@
+#floated {
+    float: right;
+    margin: 0 0 10px 10px;
+}
+
+#rounded{
+	border: 2px solid blue;
+	border-radius: 8px;
+	height: 40px;
+	width: 200px;
+}
