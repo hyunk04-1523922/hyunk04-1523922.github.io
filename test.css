@@ -50,6 +50,8 @@ li{
 	float: left;
 	text-align: center;
 	background-color:#8E41D5;
+	padding-bottom: 8px
+
 
 
 }
@@ -74,6 +76,7 @@ li{
 	border:solid 8px black;
 	text-align: center;
 	background-color:#8E41D5;
+	padding: 15px;
 
 
 
@@ -84,4 +87,9 @@ li{
 	text-align: center;
 	background-color:#8E41D5;
 
+}
+a {
+	color: white;
+	font-weight: bold;
+	font-size: 24px;
 }
